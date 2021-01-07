@@ -1,4 +1,4 @@
-Duration (in seconds) X
+Duration (in seconds)
 What is your age (# years)? X
 What is your gender? - Selected Choice X
 In which country do you currently reside? X
@@ -239,8 +239,8 @@ On which platforms have you begun or completed data science courses? (Select all
 On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - LinkedIn Learning X
 On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Cloud-certification programs (direct from AWS, Azure, GCP, or similar) X
 On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - University Courses (resulting in a university degree) X
-On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - None
-On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Other
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - None X
+On which platforms have you begun or completed data science courses? (Select all that apply) - Selected Choice - Other X
 What is the primary tool that you use at work or school to analyze data? (Include text response) - Selected Choice
 Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Twitter (data science influencers)
 Who/what are your favorite media sources that report on data science topics? (Select all that apply) - Selected Choice - Email newsletters (Data Elixir, O'Reilly Data & AI, etc)
