@@ -9,7 +9,7 @@ Motivações:
 Métricas:
 - Distribuição de idades OK
 - Distribuição do nível de formação OK
-- Distribuição de individuos empregados 
+- Distribuição de individuos empregados OK
 - Quais as plataformas mais utilizadas pelos para ensino online
 - Qual a média de idade das pessoas que consumem cada plataforma
 - Plataforma mais utilizada por região
